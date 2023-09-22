@@ -1,0 +1,46 @@
+/* MOBILE DEV */
+@media (max-width: 24rem) {
+  html {
+    font-size: 50%;
+  }
+  body {
+    background-color: #fff;
+  }
+  .container {
+    display: block;
+  }
+
+  .full-module {
+    width: 100vw;
+    padding: 0;
+    border-radius: 0;
+    /* overflow: scroll; */
+    /* padding: 3rem 2rem; */
+  }
+
+  .form-pending {
+    display: block;
+  }
+
+  .image-mobile {
+    display: block;
+  }
+  .image {
+    display: none;
+  }
+  .form-approved-content {
+    height: 100vh;
+  }
+  .content-and-form {
+    padding: 3rem 2rem;
+  }
+  .form-approved-content {
+    /* text-align: center; */
+    padding: 3rem 2rem;
+  }
+
+  .submission-description {
+    font-size: 1.6rem;
+    margin-bottom: 12rem;
+  }
+}
